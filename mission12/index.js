@@ -10,4 +10,4 @@ var hours = now.getHours();
 var minutes = now.getMinutes();
 var seconds = now.getSeconds();
 
-console.log(`${add(hours)}:${add(minutes)}:${add(seconds)}`)
+console.log(`${add(hours)}:${add(minutes)}:${add(seconds)}`);
