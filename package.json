@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ILWOO06/swdc/issues"
   },
-  "homepage": "https://github.com/ILWOO06/swdc#readme"
+  "homepage": "https://github.com/ILWOO06/swdc#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
